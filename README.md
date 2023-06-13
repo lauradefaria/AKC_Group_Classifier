@@ -6,7 +6,7 @@ The project aims to apply the knowledge of data processing and machine learning.
 ---
 
 ## Table of Contents
-- [What is the Ammerican Kennel Club?](#What is the Ammerican Kennel Club?)
+- [What is the Ammerican Kennel Club?](#what is the Ammerican Kennel Club?)
 - [Data](#data)
 - [Results](#results)
 - [Clone](#clone)
