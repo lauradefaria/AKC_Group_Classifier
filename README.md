@@ -1,4 +1,4 @@
-![author](https://img.shields.io/badge/author-lauradefaria-purple.svg)](https://github.com/lauradefaria)
+![author](https://img.shields.io/badge/author-lauradefaria-purple.svg)(https://github.com/lauradefaria)
 
 # AKC-Group-Classifier
 The project aims to apply the knowledge of data processing and machine learning. We used a dataset containing information on 277 breeds that was extracted from the American Kennel Club website.
