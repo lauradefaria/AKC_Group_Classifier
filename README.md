@@ -41,4 +41,4 @@ All the data used in this project was downloaded from the repository <a href="ak
 |<a href="https://www.linkedin.com/in/lauradefaria/" target="_blank">**Laura de Faria Maranhão Ayres**</a> |
 |:-----------------------------------------------------------------------------------------:|
 |                   <img src="imgs/laura.png" width="200px"> </img>                            |           
-|               <a href="http://github.com/lauradefaria" target="_blank">`github.com/jpvt`</a>      | 
+|               <a href="http://github.com/lauradefaria" target="_blank">`github.com/lauradefaria`</a>      | 
