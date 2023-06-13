@@ -26,7 +26,7 @@ The American Kennel Club (AKC) is a well-known organization based in the United 
 
 ## Data
 
-All the data used in this project was downloaded from the repository <a href="akcdata" target="_blank">`github.com/tmfilho/akcdata/data/akc-data-latest`</a> ('akc-data-latest.csv' file) of user <a href="'tmfilho'" target="_blank">`github.com/tmfilho`</a>, from github. This data can also be found on the Ammerican Kennel Club website.
+All the data used in this project was downloaded from the repository <a href="akcdata" target="_blank"</a> ('akc-data-latest.csv' file) of user <a href="'tmfilho'" target="_blank"</a>, from github. This data can also be found on the Ammerican Kennel Club website.
 
 ---
 
