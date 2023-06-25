@@ -39,5 +39,12 @@ All the data used in this project was downloaded from the repository "akcdata" (
 
 |<a href="https://www.linkedin.com/in/lauradefaria/" target="_blank">**Laura de Faria Maranhão Ayres**</a> |
 |:-----------------------------------------------------------------------------------------:|
-|                   <img src="imgs/laura.jpg" width="200px"> </img>                            |           
+|                   <img src="imgs/laura.jpg" width="400px"> </img>                            |           
 |               <a href="http://github.com/lauradefaria" target="_blank">`github.com/lauradefaria`</a>      | 
+
+---
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
